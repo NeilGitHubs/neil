@@ -2,5 +2,5 @@
 .gitignore
 src/main/resources/
 src/test/
-target/classes/com/hankun/neil/design_patterns/observer/
-target/generated-sources/
+target/
+.idea/
